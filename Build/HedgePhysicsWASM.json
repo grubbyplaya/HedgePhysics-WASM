@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "HedgePhysicsWASM.data.unityweb",
+"asmCodeUrl": "HedgePhysicsWASM.asm.code.unityweb",
+"asmMemoryUrl": "HedgePhysicsWASM.asm.memory.unityweb",
+"asmFrameworkUrl": "HedgePhysicsWASM.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
